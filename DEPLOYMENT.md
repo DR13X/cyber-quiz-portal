@@ -21,7 +21,7 @@ git commit -m "Initial commit: CyberSecure Quiz Portal"
 
 # Create repository on GitHub (github.com/new)
 # Then push code:
-git remote add origin https://github.com/YOUR_USERNAME/cyber-quiz.git
+git remote add origin https://github.com/DR13X/cyber-quiz-portal.git
 git branch -M main
 git push -u origin main
 ```
@@ -123,8 +123,8 @@ sudo apt-get install -y nodejs
 **3. Clone Repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cyber-quiz.git
-cd cyber-quiz
+git clone https://github.com/DR13X/cyber-quiz-portal.git
+cd cyber-quiz-portal
 npm install
 ```
 
@@ -574,5 +574,5 @@ NEXT_PUBLIC_ADMIN_PASSWORD=YourSecurePassword123!
 ---
 
 **Deployment Guide Version**: 1.0
-**Last Updated**: November 2024
+**Last Updated**: November 2026
 **Status**: Ready for Production
